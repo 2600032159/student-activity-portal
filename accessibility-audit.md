@@ -1,4 +1,3 @@
-ndix C: accessibility-audit.md
 # Accessibility Audit Report
 ## Tool used
 - Google Lighthouse / WAVE
